@@ -100,6 +100,16 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            to: 'benvinguda-iker',
+            label: 'Benvinguda',
+            position: 'left',
+          },
+          {
+            to: 'desplegaments-Iker',
+            label: 'Desplegaments',
+            position: 'left',
+          },
         ],
       },
       footer: {
